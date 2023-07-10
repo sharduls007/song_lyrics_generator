@@ -1,0 +1,4 @@
+model.pth
+data/
+.vscode/
+__pycache__
